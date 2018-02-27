@@ -19,6 +19,6 @@ public class SchedualController {
     }
     @RequestMapping(value = "/hello",method = RequestMethod.GET)
     public String hello(){
-        return "feign";
+        return " feign";
     }
 }
