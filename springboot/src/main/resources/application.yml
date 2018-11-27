@@ -10,3 +10,5 @@ eureka:
 spring:
   application:
     name: service-hi
+myww:
+  myww version 2    
